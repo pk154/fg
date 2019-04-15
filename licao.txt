@@ -1,0 +1,49 @@
+ls: Lista todos os arquivos do diretório
+
+df: Mostra a quantidade de espaço usada no disco rígido
+
+cd: Acessa uma determinada pasta (diretório)
+
+mkdir: Cria um diretório
+
+rm: Remove um arquivo/diretório
+
+cat: Abre um arquivo
+
+vi: Abre o editor vi (lê-se viai) para editar/criar
+
+exit: Terminar a sessão, ou seja, a shell (mais ajuda digitando man sh ou man csh)
+ 
+passwd: Mudar a password do nosso utilizador (usuário logado)
+
+cd: Mudar de diretório atual, como por exemplo cd diretório, cd .., cd /
+
+chmod: Mudar a proteção de um arquivo ou diretório, como por exemplo chmod 777, parecido com o attrib do MS-DOS
+
+chown: Mudar o dono ou grupo de um arquivo ou diretório, vem de change owner
+
+chgrp: Mudar o grupo de um arquivo ou diretório
+
+cmp: Compara dois arquivos
+
+cp: Copia arquivos, como o copy do MS-DOS
+
+mkdir: Cria uma diretório, vem de make directory”
+
+mv: Move ou renomeia arquivos ou diretórios
+
+pwd: Mostra-nos o caminho por inteiro da diretório em que nos encontramos em dado momento, ou seja um pathname
+
+rm: Apaga arquivos, vem de remove, e é semelhante ao comando del no MS-DOS, é preciso ter cuidado com o comando rm * pois apaga tudo sem confirmação por defeito
+
+rmdir: Apaga diretório, vem de remove directory
+
+at: Mostra o conteúdo de um arquivo, como o comando type do MD-DOS, e é muito usado também para concatenar arquivos, como por exemplo fazendo cat a.txt b.txt > c.txt” para juntar o arquivo a.txtb.txt num único de nome c.txt
+
+ping: Pingar um determinado host, ou seja, enviar pacotes icmp para um determinado host e medir tempos de resposta, entre outras coisas
+
+date: Exibe a data e hora
+
+history: Lista os últimos comandos usados, muito útil para lembrar também de que comandos foram usados para fazer determinada acção no passado ou o que foi feito em dada altura
+
+
